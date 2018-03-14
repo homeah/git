@@ -7,3 +7,5 @@ for a in range(0):
     print(a)
 #hello
 #second test
+for b in range(10):
+     print(b)
